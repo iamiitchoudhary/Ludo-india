@@ -1,0 +1,13 @@
+{
+     "name": "ludo-king-india",
+     "version": "1.0.0",
+     "description": "Real-time multiplayer Ludo game for Indian players",
+     "main": "index.html",
+     "scripts": {
+       "dev": "vercel dev",
+       "build": "echo 'Static site - no build needed'",
+       "start": "vercel dev"
+     },
+     "keywords": ["ludo", "game", "multiplayer", "india"],
+     "author": "Your Name"
+}
